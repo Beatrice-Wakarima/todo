@@ -1,7 +1,7 @@
 body {
     --color-primary: #007795;
     --color-primary-dark: #007f67;
-    --color-secondary: #23b685;
+    --color-secondary: #494cdd;
     --color-error: #cc3333;
     --color-success: #4bb544;
     --border-radius: 4px;
@@ -24,7 +24,7 @@ body {
     padding: 2rem;
     box-shadow: 0 0 40px rgba(0, 0, 0, 0.2);
     border-radius: var(--border-radius);
-    background: #ffffff;
+    background: rgb(252, 248, 248);
 }
 
 /* STYLING THE FORM TITLE */
@@ -42,7 +42,7 @@ body {
     border-radius: var(--border-radius);
     border: 1px solid #dddddd;
     outline: none;
-    background: #eeeeee;
+    background: #8adaab;
     transition: background 0.2s, border-color 0.2s;
 }
 

@@ -1,4 +1,8 @@
-function setFormMessage(formElement, type, message) {
+
+function Redirect()
+{
+    window.location="todo.html";
+}function setFormMessage(formElement, type, message) {
     const messageElement = formElement.querySelector(".form-message");
 
     messageElement.textContent = message;
